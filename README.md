@@ -1,8 +1,8 @@
 # MERN-BOILERPLATE
 
-`yarn development`: This command will get `Nodemon`, `Webpack`, and the `server` started for `development`.
-`yarn build`: This will generate the client and server code bundles for production mode (before running this script, make sure to remove the devBundle.compile code from server.js).
-`yarn start`: This command will run the bundled code in production.
+1. `yarn development`: This command will get `Nodemon`, `Webpack`, and the `server` started for `development`.
+2. `yarn build`: This will generate the client and server code bundles for production mode (before running this script, make sure to           remove the devBundle.compile code from server.js).
+3. `yarn start`: This command will run the bundled code in production.
 
 
 
